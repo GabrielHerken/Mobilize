@@ -59,6 +59,11 @@ a:hover {
     margin-bottom: 0;
 }
 
+img {
+    margin-top: 1rem;
+    width: 100%;
+}
+
 @media (orientation: portrait) {
     article {
         width: fit-content;
